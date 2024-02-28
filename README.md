@@ -118,5 +118,5 @@ def matplot_s(CSV_name,table):
 
 #出力例
 ![image](https://github.com/Dappe-15/HPLC_analysis/assets/119719184/6b464722-39bc-45a0-8443-336344169fea)
-注意：実際に利用しているデータ・出力とは異なります。
+注意：実際に利用しているデータ・コードとは異なります。そのため、出力されるグラフも異なります。
 
